@@ -1,0 +1,12 @@
+name: Auto Author Assign
+
+on:
+  pull_request:
+    types: [opened, reopened]
+
+jobs:
+  assign-author:
+    name: Auto Author Assign
+    runs-on: ubuntu-latest
+    steps:
+      - uses: toshimaru/auto-author-assign@v1.5.0
