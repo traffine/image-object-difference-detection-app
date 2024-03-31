@@ -2,6 +2,12 @@
 
 An app that detects the difference between the input image a and the input image b.
 
+
+
+https://github.com/traffine/image-object-difference-detection-app/assets/45656383/ffaf26dc-f965-4e0b-a923-a54f964de979
+
+
+
 ## Environment
 
 - Python3.10
